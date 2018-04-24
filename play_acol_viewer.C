@@ -160,4 +160,3 @@ void play_acol_viewer(int verbosity=0) {
       sleep(1);
    }
 }
-
